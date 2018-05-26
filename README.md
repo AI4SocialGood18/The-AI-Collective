@@ -1,6 +1,6 @@
 # The-AI-Collective
 
-The AI Collective is a non-profit crowdsourcing online platform that provides the public with open crowsourcing projects and encourage the public to participate in projects involving scientific research or social good. 
+A website where you can search volunteering work near your location and uses machine learning to provide helpful labels for different posts
 
 
 Collaborators:
