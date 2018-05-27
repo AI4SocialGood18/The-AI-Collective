@@ -4,6 +4,7 @@ from django.http import HttpResponse
 from django.views.generic.base import TemplateView
 from django.shortcuts import render
 from django.views import View
+import json
 
 class HomePageView(TemplateView):
     template_name = "index.html"
@@ -20,7 +21,8 @@ class LabelPageView(TemplateView):
         return context
 
     def post(self, request, *args, **kwargs):
+        data = open('labels.json').read()
         context = dict()
         context['data'] = request.POST.get('location')
-
+        context['json_data'] = json.dumps(data)
         return render(request, "labels.html", context)
