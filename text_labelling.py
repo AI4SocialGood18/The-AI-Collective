@@ -16,14 +16,14 @@ def create_raw(document):
     lowers = document.lower()
     #remove the punctuation using the character deletion step of translate
     no_punctuation = lowers.translate(str.maketrans('','',string.punctuation))
-    return no_punctuation
+    result = ''.join([i for i in no_punctuation if not i.isdigit()])
+    text = re.sub(r'http\S+', '',result)
+    return text
 
 def tokenize(text):
 	tokens = nltk.word_tokenize(text)
 	new_tokens = remove_stopwords(tokens)
-	stemmer = PorterStemmer()
-	stems = stem_tokens(new_tokens, stemmer)
-	return stems
+	return new_tokens
 
 def remove_stopwords(tokens):
 	filtered = [w for w in tokens if not w in stopwords.words('english')]

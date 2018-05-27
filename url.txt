@@ -1,0 +1,94 @@
+1.txt,https://www.indeed.ca/cmp/The-Arthritis-Society/jobs/Walk-Arthritis-Volunteer-a0a2a5abb814ab54?q=%22Job+Type%3A+Volunteer%22&vjs=3
+10.txt,https://www.indeed.ca/cmp/Putting-Rare-Diseases-Patients-First!/jobs/Volunteer-Position-Non-Profit-Physician-Liaison-495b3429aa9e518a?q=%22Job+Type%3A+Volunteer%22&vjs=3
+11.txt,https://www.indeed.ca/cmp/Vancouver-Convention-Centre/jobs/Canada-Day-Volunteer-fdac4f6de3a061b7?q=%22Job+Type%3A+Volunteer%22&vjs=3
+12.txt,https://www.indeed.ca/cmp/Pacific-Immigrant-Resources-Society/jobs/Childcare-Assistant-Volunteer-2c901cc1c6ad278b?q=%22Job+Type%3A+Volunteer%22&vjs=3
+13.txt,https://www.indeed.ca/cmp/Pacific-Immigrant-Resources-Society/jobs/Ece-Childcare-Assistant-Volunteer-a70319ca8b7ed5e6?q=%22Job+Type%3A+Volunteer%22&vjs=3
+14.txt,https://www.indeed.ca/cmp/Heart-and-Stroke-Foundation/jobs/Big-Bike-Event-Day-Volunteer-a85174d85bc5dc9e?q=%22Job+Type%3A+Volunteer%22&vjs=3
+15.txt,https://www.indeed.ca/cmp/Putting-Rare-Diseases-Patients-First!/jobs/Vice-President-Marketing-Non-Profit-Volunteer-Position-da4145ca35885e5b?q=%22Job+Type%3A+Volunteer%22&vjs=3
+16.txt,https://www.indeed.ca/cmp/Legacy-150-Celebrations-Society/jobs/Volunteer-Photographer-2a4e83bce2ae0762?q=%22Job+Type%3A+Volunteer%22&vjs=3
+17.txt,https://www.indeed.ca/cmp/Youth-Unlimited-Street-Life-East-Vancouver/jobs/Volunteer-Youth-Worker-cf82d1452d0e3c75?q=%22Job+Type%3A+Volunteer%22&vjs=3
+18.txt,https://www.indeed.ca/cmp/The-Ride-to-Conquer-Cancer/jobs/Volunteer-Driver-Sweep-Team-319e34c471f7e044?q=%22Job+Type%3A+Volunteer%22&vjs=3
+19.txt,https://www.indeed.ca/cmp/Vancouver-Coastal-Health---Volunteer-Resources/jobs/Bingo-Volunteer-59abc6182c8d589e?q=%22Job+Type%3A+Volunteer%22&vjs=3
+2.txt,https://www.indeed.ca/cmp/Cedar-Science-Camp/jobs/Volunteer-Indigenous-Youth-Science-Camp-At-Ubc-db03f3fcecb85223?q=%22Job+Type%3A+Volunteer%22&vjs=3
+20.txt,https://www.indeed.ca/cmp/Putting-Rare-Diseases-Patients-First!/jobs/Volunteer-Position-Non-Profit-Physician-Outreach-Leader-243f170d71722534?q=%22Job+Type%3A+Volunteer%22&vjs=3
+21.txt,https://www.indeed.ca/cmp/Putting-Rare-Diseases-Patients-First!/jobs/Volunteer-Position-Non-Profit-Bod-Chief-Operating-Officer-7354fe91fd87e928?q=%22Job+Type%3A+Volunteer%22&vjs=3
+22.txt,https://www.indeed.ca/cmp/Putting-Rare-Diseases-Patients-First!/jobs/Volunteer-Position-Non-Profit-SEO-Digital-Marketing-14fbe7b6c627e589?q=%22Job+Type%3A+Volunteer%22&vjs=3
+23.txt,https://www.indeed.ca/cmp/Legacy-150-Celebrations-Society/jobs/Volunteer-Videographer-1b1436b058165689?q=%22Job+Type%3A+Volunteer%22&vjs=3
+24.txt,https://www.indeed.ca/cmp/Fraser-River-Discovery-Centre/jobs/Summer-Day-Camp-Volunteer-2d9cba813bb37a16?q=%22Job+Type%3A+Volunteer%22&vjs=3
+25.txt,https://www.indeed.ca/cmp/Putting-Rare-Diseases-Patients-First!/jobs/Non-Profit-Vice-President-Patient-Liaison-Volunteer-Position-803c867a346f3bda?q=%22Job+Type%3A+Volunteer%22&vjs=3
+26.txt,https://www.indeed.ca/cmp/PMV/jobs/Volunteer-Project-Manager-b8246596ed610b13?q=%22Job+Type%3A+Volunteer%22&vjs=3
+27.txt,https://www.indeed.ca/cmp/Vancouver-Coastal-Health---Volunteer-Resources/jobs/Gardening-Volunteer-742f52c3ed608b93?q=%22Job+Type%3A+Volunteer%22&vjs=3
+28.txt,https://www.indeed.ca/cmp/Vancouver-International-Bhangra-Celebration/jobs/Volunteer-Fest-a94daba109a906af?q=%22Job+Type%3A+Volunteer%22&vjs=3
+29.txt,https://www.indeed.ca/cmp/Vancouver-International-Bhangra-Celebration/jobs/Volunteer-Fest-a94daba109a906af?q=%22Job+Type%3A+Volunteer%22&vjs=3
+3.txt,https://www.indeed.ca/cmp/The-Writers'-Exchange/jobs/Volunteer-Literacy-Mentor-9868b9476f67b296?q=%22Job+Type%3A+Volunteer%22&vjs=3
+30.txt,https://www.indeed.ca/cmp/Indian-Summer-Festival/jobs/Volunteer-dc66a6684fc6889b?q=%22Job+Type%3A+Volunteer%22&vjs=3
+31.txt,https://www.indeed.ca/cmp/BC-Highland-Games-&-Scottish-Festival/jobs/Volunteer-1844d5b4c4ce0de2?q=%22Job+Type%3A+Volunteer%22&vjs=3
+32.txt,https://www.indeed.ca/cmp/Heart-and-Stroke-Foundation/jobs/Big-Bike-Event-Day-Volunteer-cc3ea4a34771730a?q=%22Job+Type%3A+Volunteer%22&vjs=3
+33.txt,https://www.indeed.ca/cmp/Vancouver-International-Bhangra-Celebration/jobs/Event-Volunteer-35375ad35fe3ff91?q=%22Job+Type%3A+Volunteer%22&vjs=3
+34.txt,https://www.indeed.ca/cmp/Fraser-River-Discovery-Centre/jobs/School-Program-Leader-5e40114ecf2b443c?q=%22Job+Type%3A+Volunteer%22&vjs=3
+35.txt,https://www.indeed.ca/cmp/Fraser-River-Discovery-Centre/jobs/Tiny-Tots-Volunteer-fb128d14cb054418?vjs=3
+36.txt,https://www.indeed.ca/cmp/Dancing-on-The-Edge/jobs/Volunteer-Festival-8aa517961bc7b1da?q=%22Job+Type%3A+Volunteer%22&vjs=3
+37.txt,https://www.indeed.ca/cmp/The-Ride-to-Conquer-Cancer/jobs/Medical-Volunteer-3e8babc4e3a32152?q=%22Job+Type%3A+Volunteer%22&vjs=3
+38.txt,https://www.indeed.ca/cmp/The-Ride-to-Conquer-Cancer/jobs/Tent-Set-Volunteer-381efbcee43e6e0a?q=%22Job+Type%3A+Volunteer%22&vjs=3
+39.txt,https://www.indeed.ca/cmp/Coastal-Jazz-&-Blues-Society/jobs/Open-Call-Volunteer-61099dd70adf91de?q=%22Job+Type%3A+Volunteer%22&vjs=3
+4.txt,https://www.indeed.ca/cmp/The-Writers'-Exchange/jobs/Volunteer-Literacy-Mentor-9868b9476f67b296?q=%22Job+Type%3A+Volunteer%22&vjs=3
+40.txt,https://www.indeed.ca/cmp/Dan's-Legacy/jobs/Volunteer-Dish-Washer-d2d21c8f48cdf438?q=%22Job+Type%3A+Volunteer%22&vjs=3
+41.txt,https://www.indeed.ca/cmp/Pacific-Immigrant-Resources-Society/jobs/ESL-Teacher-Assistant-Volunteer-07e731f5c4be1445?q=%22Job+Type%3A+Volunteer%22&vjs=3
+42.txt,https://www.indeed.ca/cmp/Heart-and-Stroke-Foundation/jobs/Volunteer-Driver-0639568d1a7cbb30?q=%22Job+Type%3A+Volunteer%22&vjs=3
+43.txt,https://www.indeed.ca/cmp/Sina-Pharmacy/jobs/Pharmacy-Assistant-54f0eb46aa092561?q=%22Job+Type%3A+Volunteer%22&vjs=3
+44.txt,https://www.indeed.ca/cmp/Fraser-River-Discovery-Centre/jobs/Festival-Volunteer-8bc9749409372095?q=%22Job+Type%3A+Volunteer%22&vjs=3
+45.txt,https://www.indeed.ca/cmp/The-Ride-to-Conquer-Cancer/jobs/Motorcycle-Volunteer-Event-fe63031a218f3f64?q=%22Job+Type%3A+Volunteer%22&vjs=3
+46.txt,https://www.indeed.ca/cmp/The-Ride-to-Conquer-Cancer/jobs/Motorcycle-Volunteer-Event-fe63031a218f3f64?q=%22Job+Type%3A+Volunteer%22&vjs=3
+47.txt,https://www.indeed.ca/cmp/Rock-Steady-Boxing-New-West/jobs/Gym-Volunteer-2ae2ff4df2595007?q=%22Job+Type%3A+Volunteer%22&vjs=3
+48.txt,https://www.indeed.ca/cmp/Rock-Steady-Boxing-New-West/jobs/Gym-Volunteer-2ae2ff4df2595007?q=%22Job+Type%3A+Volunteer%22&vjs=3
+49.txt,https://www.indeed.ca/cmp/The-Ride-to-Conquer-Cancer/jobs/Volunteer-04168046c360e1ca?q=%22Job+Type%3A+Volunteer%22&vjs=3
+5.txt,https://www.indeed.ca/cmp/BikeHike-Adventures/jobs/One-Day-Cycling-Event-Volunteer-8f6d260c2713a0b7?q=%22Job+Type%3A+Volunteer%22&vjs=3
+50.txt,https://www.indeed.ca/cmp/War-Child-Canada/jobs/Summer-Concert-Series-0e3772c0bd4eddf9?q=%22Job+Type%3A+Volunteer%22&vjs=3
+51.txt,CALL FOR VOLUNTEERS
+52.txt,Job Summary
+53.txt,
+54.txt,
+55.txt,Description & Details
+56.txt,
+57.txt,Every day 27 people are diagnosed with a brain tumour and it is estimated that 55,000 Canadians are surviving with a brain tumour. We believe that these survivors and their families should never have to walk alone and on June 2nd, 2018 they don't have to.
+58.txt,
+59.txt,JOB DESCRIPTION - Special Events Volunteer
+6.txt,https://www.indeed.ca/cmp/Greek-Day-on-Broadway/jobs/Volunteer-Epic-Greek-Day-Festival-52ed24ab3af99a4b?q=%22Job+Type%3A+Volunteer%22&vjs=3
+60.txt,On June 12, from 5:30 to 8:30 pm, the "Party In The Park" will take place at theGeorge R. Gauld Junior School at 200 Melrose St. (Located near Royal York Road and Lake Shore Blvd West).
+7.txt,https://www.indeed.ca/cmp/Waterlution/jobs/Youth-Advisory-Board-Volunteer-Member-fda082ce1b070c7d?q=%22Job+Type%3A+Volunteer%22&vjs=3
+8.txt,https://www.indeed.ca/cmp/PeaceGeeks/jobs/Board-Director-93c71123680519fe?q=%22Job+Type%3A+Volunteer%22&vjs=3
+9.txt,https://www.indeed.ca/cmp/Hot-Yoga-101---Vancouver/jobs/Yoga-Studio-Volunteer-19a36bda56cb722d?q=%22Job+Type%3A+Volunteer%22&vjs=3
+aergtqretqre.txt,VOLUNTEER OPPORTUNITY - VANCOUVER CONVENTION CENTRE
+afaertqer.txt,PURPOSE: To assist the ESL Teacher in charge of the ESL program in the day-to day activities of the class.
+afgagaeg.txt,The Committee member will spread the word to clinics and hospitals about the work that PRDPF! is doing to provide free education about the clinical trial and drug development process to patients with rare disease, and parents of children with rare diseases. Pharmacists and Physicians may apply. These are volunteer position..
+agarewgq.txt,Tent Set-Up Volunteers wanted for Ride to Conquer Cancer
+agraregewr.txt,POSITION: Childcare Assistant Volunteer
+arewrt.txt,We’re setting a world record this July 1. Neat photographer(s) & videographer(s) needed to help us capture the history. You in?
+argaergre.txt,Tuesdays are officially the most exciting day for our tiniest visitors! Guests to the FRDC on Tuesdays will enjoy special age-appropriate programs and activities for the little ones, helping them to learn and explore the topics of the Fraser River in a new way! As a Tiny Tot Volunteer, you would be responsible for helping the little ones make the most of their day through games, activities, singing, storytime, circle time, and puppet shows. These activities will take place in shorter periods to accommodate the nap times of these tiny visitors!
+art.txt,he Riverdale ArtWalk is looking for energetic, friendly volunteers!
+awards.txt,We are looking for volunteers to assist with the setup and guest navigation at the AZ Awards Gala on Friday, June 22, 2018 at the Evergreen Brick Works. The daytime shift runs from 11 am-3 pm and will involve assisting with setup and loot bag stuffing. The evening shift, from 5-11 pm, will focus on guest navigation.
+cancer.txt,Job Summary
+chef.txt,Happy Chefs
+communications.txt,Job Summary
+community.txt,Be a Part of Our Team!
+education.txt,- You want a rewarding experience in the education sector,
+Excitingvolunteer.txt,Be a Part of Our Team!
+gardening.txt,Gardening Volunteer
+greek.txt,Please join us for our annual Greek Day on Broadway celebration!
+kjagjafjqer.txt,About
+ksjigjowiegore.txt,Arthritis has devastating effects on the lives of the more than 6 million Canadians affected by arthritis. With the help of generous volunteers, donors, and supporters, the Arthritis Society invests in cutting-edge research, proactive advocacy, and innovative solutions that will deliver better health outcomes for people affected by arthritis.
+onqreoinoqireio.txt,The Hot Yoga 101 Studio Volunteer is responsible for maintaining the general cleanliness of the yoga studio at our Cambie and 12th location. By focusing on the guest experience within our facilities and maintaining the studio's space to the highest standard, the Studio Volunteer will contribute to ensuring that their Hot Yoga 101 experience exceeds our guest’s expectations.
+parent.txt,Parent Support Services Society of BC is looking for volunteers to deliver a quality childminding/playgroup program for children birth to 5 years (& some older children under 12), whose families are accessing our Parent Support Circle Program. The volunteer childminders will work within the childminding team and Support Circle facilitators. Circle meeting varies in days, location and time.
+pharma.txt,Pharma Medica Research is a full service contract research organization specialized in conducting early phase clinical trials in healthy volunteers, special and patient populations. We currently have a vacancy for a part-time Clinical Data Entry Associatefor our Scarborough clinic location. Due to volume of work this position could possibly transition to full-time based on business needs.
+pre-school.txt,We are looking for responsible and reliable people to help us with children 3-5 years old.
+QAEWTQWE.txt,The goal of the Putting Rare Diseases Patients First!® [PRDPF!] organization is to provide actionable information on clinical trials and drug development, to patients with rare diseases, and the parents of children with rare diseases. This information is mainly provided in Webinars, which are online seminars. Seven Webinars have been held thus far.
+qertqertqet.txt,Medical Volunteer Wanted for Ride to Conquer Cancer
+qewtqewt.txt,Position: Gardening Volunteers -** No Experience Required **
+QWERQWER.txt,We’re setting a world record this July 1. Neat photographer(s) & videographer(s) needed to help us capture the history. You in?
+qwtqewtqrewgt.txt,Please join us for our annual Greek Day on Broadway celebration!
+retqertqt.txt,Rock Steady Boxing New West relies on volunteers to help support the participants who are fighting back against Parkinson's disease.
+rkjqeripojqre.txt,BINGO VOLUNTEERS
+VolunteerHighland.txt,Volunteers are needed for the 2018 BC Highland Games & Scottish Festival, June 16, 2018 at Percy Perry Stadium in Coquitlam.
+weawgarewger.txt,Overview:
+wetqewt.txt,This summer at the FRDC, kids are invited to experiement, learn, and play at our special Summer Day Camps! We need volunteers who love spending time with kids to come help us out. The Summer Day Camp volunteer would assist staff in supervising children, leading summer camp activities, setting up and cleaning up the camps. Camps run for 4 weeks in the summer (July 16 to 27 and August 13 to 24) Monday through Friday from 8:30 to 3:30. We are looking for volunteers who would like to gain eperience working with children, and working within the arts, history, science, and other fun subjects! Please check out our website fraserriverdiscovery.org for more information on the summer camps. This position is great for all ages of volunteer (15+) and can be great for getting volunteer hours for applications and graduation!
+WEWR.txt,Putting Rare Diseases Patients First! provides education about the clinical trial and drug development process to patients with rare diseases, and parents of children with rare diseases. This person will lead the outreach effort to connect with clinics and hospitals, so that patients and parents can be informed about the information available to them. This is a volunteer position.

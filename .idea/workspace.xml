@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="959de22a-2d3d-4dd0-a8d0-27a29ea0fd52" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Volunthere/static/css/index.css" afterPath="$PROJECT_DIR$/Volunthere/static/css/index.css" />
-      <change beforePath="$PROJECT_DIR$/Volunthere/templates/index.html" afterPath="$PROJECT_DIR$/Volunthere/templates/index.html" />
-      <change beforePath="$PROJECT_DIR$/Volunthere/templates/labels.html" afterPath="$PROJECT_DIR$/Volunthere/templates/labels.html" />
-      <change beforePath="$PROJECT_DIR$/Volunthere/views.py" afterPath="$PROJECT_DIR$/Volunthere/views.py" />
-      <change beforePath="$PROJECT_DIR$/labels.json" afterPath="$PROJECT_DIR$/labels.json" />
-    </list>
+    <list default="true" id="959de22a-2d3d-4dd0-a8d0-27a29ea0fd52" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -175,9 +168,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="180" />
-    <option name="y" value="95" />
+    <option name="y" value="23" />
     <option name="width" value="1260" />
-    <option name="height" value="805" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -300,7 +293,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="180" y="95" width="1260" height="805" extended-state="0" />
+    <frame x="180" y="23" width="1260" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
