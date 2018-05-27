@@ -1,20 +1,26 @@
 
 # Create your views here.
 from django.http import HttpResponse
-from .models import Question
+from django.views.generic.base import TemplateView
 from django.shortcuts import render
+from django.views import View
 
-def index(request):
-    latest_question_list = Question.objects.order_by('-pub_date')[:5]
-    context = {'latest_question_list': latest_question_list}
-    return render(request, 'index.html', context)
+class HomePageView(TemplateView):
+    template_name = "index.html"
 
-def detail(request, question_id):
-    return HttpResponse("You're looking at question %s." % question_id)
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        return context
 
-def results(request, question_id):
-    response = "You're looking at the results of question %s."
-    return HttpResponse(response % question_id)
+class LabelPageView(TemplateView):
+    template_name = "labels.html"
 
-def vote(request, question_id):
-    return HttpResponse("You're voting on question %s." % question_id)
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        return context
+
+    def post(self, request, *args, **kwargs):
+        context = dict()
+        context['data'] = request.POST.get('location')
+
+        return render(request, "labels.html", context)
