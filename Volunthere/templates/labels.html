@@ -14,10 +14,19 @@
  </head>
 <body>
 
-    <header class="masthead">
+<header class="masthead">
       <div class="intro-body">
         <div class="container">
-          {{ json_data }}
+        <p>- Results sorted by popularity -</p>
+          <div class="row">
+            <ul class="menu">
+            {% for d in data|dictsortreversed:"size"%}
+                {% if d.size %}
+		            <li><a href="/home" data-bubble={{ d.size }}>{{ d.label }}</a></li>
+                {% endif %}
+            {% endfor %}
+	        </ul>
+          </div>
         </div>
       </div>
     </header>

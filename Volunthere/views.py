@@ -3,7 +3,6 @@
 from django.http import HttpResponse
 from django.views.generic.base import TemplateView
 from django.shortcuts import render
-from django.views import View
 import json
 
 class HomePageView(TemplateView):
@@ -23,6 +22,9 @@ class LabelPageView(TemplateView):
     def post(self, request, *args, **kwargs):
         data = open('labels.json').read()
         context = dict()
-        context['data'] = request.POST.get('location')
-        context['json_data'] = json.dumps(data)
+        #context['data'] = request.POST.get('location')
+        json_data = json.loads(data)
+        lst =  json_data.get('data')
+        context['data'] = lst
+
         return render(request, "labels.html", context)
