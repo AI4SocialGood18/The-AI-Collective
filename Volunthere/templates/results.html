@@ -1,5 +1,5 @@
 {% load static %}
-
+{% load parse_url %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,15 +17,27 @@
 <header class="masthead">
       <div class="intro-body">
         <div class="container">
-        <p>- Results sorted by popularity -</p>
           <div class="row">
-            <ul class="menu">
-            {% for d in data|dictsortreversed:"size"%}
-                {% if d.size %}
-		            <li><a href="/home/results" data-bubble={{ d.size }}>{{ d.label }}</a></li>
-                {% endif %}
-            {% endfor %}
-	        </ul>
+          <table class="table table-hover table-striped table-dark">
+          <thead>
+              <tr>
+                <th>Organization</th>
+                <th>Position ID</th>
+              </tr>
+            </thead>
+            <tbody>
+            {% for weburl in url_list %}
+                <tr>
+                <td>{{ weburl|parse_url_org|linebreaksbr }}</td>
+                <td><a style="color: white" href={{ weburl }}>{{ weburl|parse_url_id|linebreaksbr }}</a></td>
+              </tr>
+
+
+              {% endfor %}
+
+            </tbody>
+
+          </table>
           </div>
         </div>
       </div>
